@@ -3,7 +3,6 @@
 import os
 import random
 import string
-
 from captcha.image import ImageCaptcha
 from captcha.audio import AudioCaptcha
 from playsound import playsound
